@@ -77,6 +77,8 @@ img {
 
 .header-link {
     padding: 24px 0;
+    color: var(--color-ocean);
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-menu-item {
