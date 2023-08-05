@@ -587,7 +587,7 @@ footer {
 }
 
 .paragraph-portfolio-focus:focus {
-    transform: translateY(0%);
+    transform: translateY(0%)
 }
 
 .backdrop.is-hidden .modal {
