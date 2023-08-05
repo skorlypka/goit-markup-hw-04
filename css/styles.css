@@ -582,12 +582,12 @@ footer {
     color: var(--color-slate);
 }
 
-.paragraph-portfolio:hover {
+.paragraph-portfolio-focus:focus {
     transform: translateY(0%);
 }
 
-.paragraph-portfolio-focus:focus {
-    transform: translateY(0%)
+.paragraph-portfolio:hover {
+    transform: translateY(0%);
 }
 
 .backdrop.is-hidden .modal {
