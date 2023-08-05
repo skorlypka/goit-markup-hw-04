@@ -586,7 +586,7 @@ footer {
     transform: translateY(0%);
 }
 
-.paragraph-portfolio:focus {
+.paragraph-portfolio-focus:focus {
     transform: translateY(0%);
 }
 
