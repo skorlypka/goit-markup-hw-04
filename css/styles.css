@@ -587,6 +587,10 @@ footer {
     transform: translateY(0%);
 }
 
+.portfolio-link:focus {
+    transform: translateY(0%);
+}
+
 .backdrop.is-hidden .modal {
     transform: translate(-50%, -50%) scale(0);
 }
