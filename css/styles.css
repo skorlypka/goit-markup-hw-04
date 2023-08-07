@@ -582,11 +582,8 @@ footer {
     color: var(--color-slate);
 }
 
-.paragraph-portfolio:hover {
-    transform: translateY(0%);
-}
-
-.paragraph-portfolio-focus:focus {
+.portfolio-link:hover .paragraph-portfolio,
+.portfolio-link:focus .paragraph-portfolio {
     transform: translateY(0%);
 }
 
